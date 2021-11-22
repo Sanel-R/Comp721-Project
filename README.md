@@ -1,2 +1,6 @@
 # Comp721-Project
-In this project we are trying to answer three questions: Game Outcome Prediction, 
+
+## Introduction
+Basketball is one of the most popular sports in the United States and is also popular internationally. Early on, it was a simple gym exercise and slowly spread to high schools and colleges. The National Basketball Association (NBA) emerged in the early 1950s as the major governing body for the professional version of the game. Every year, the NBA hosts a tournament that brings together teams from all over North America. The tournament is known as a season. In a season, each team competes against others several times and records its wins and losses. In an elimination-style tournament called the Playoffs, the 16 teams with the most wins compete against each other after a number of games (in the hundreds). Four out of seven playoff matches are very competitive. Whoever wins the Playoffs wins the whole season.
+
+This project is centred around determining outstanding players, detecting outliers of players, given two teams, determining who will win solely based on statistical analysis. In this project, we aim to help people who often play fantasy basketball, a virtual game in which players create teams based on real-life players and get rankings depending on the performance of their selected players in games.
